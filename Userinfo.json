@@ -34,5 +34,11 @@
     "key": "htxkey2",
     "expirydate": "2025-12-06",
     "Allowoffline": false
+  },
+  {
+    "device_id": "12345678",
+    "key": "htxkey2",
+    "expirydate": "2025-12-06",
+    "Allowoffline": false
   }
 ]

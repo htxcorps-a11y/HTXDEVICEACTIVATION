@@ -1,11 +1,10 @@
-json
 {
   "users": {
-    "123456789": {              // Telegram user ID
-      "max_keys": 10,           // Total keys allowed
-      "valid_days": 30,         // Fixed validity in days per key
-      "start_date": "2025-10-07", // Date when limit period started
-      "period_days": 30         // Duration user can add keys from start_date
+    "123456789": {
+      "max_keys": 10,
+      "valid_days": 30,
+      "start_date": "2025-10-07",
+      "period_days": 30
     },
     "987654321": {
       "max_keys": 5,

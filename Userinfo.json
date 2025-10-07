@@ -46,5 +46,12 @@
     "key": "htxkey2",
     "expirydate": "2025-12-06",
     "Allowoffline": false
+  },
+  {
+    "device_id": "12345789163515",
+    "key": "userkey1",
+    "expirydate": "22-10-2025",
+    "Allowoffline": true,
+    "added_by": "8284807058"
   }
 ]

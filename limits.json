@@ -1,16 +1,10 @@
 {
   "users": {
-    "123456789": {
+    "8284807058": {
       "max_keys": 10,
-      "valid_days": 30,
-      "start_date": "2025-10-07",
-      "period_days": 30
-    },
-    "987654321": {
-      "max_keys": 5,
       "valid_days": 15,
-      "start_date": "2025-10-01",
-      "period_days": 20
+      "start_date": "2025-10-07",
+      "period_days": 7
     }
   }
 }

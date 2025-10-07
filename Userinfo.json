@@ -95,5 +95,12 @@
     "expirydate": "22-10-2025",
     "Allowoffline": true,
     "added_by": "8284807058"
+  },
+  {
+    "device_id": "12345671212",
+    "key": "keynew",
+    "expirydate": "22-10-2025",
+    "Allowoffline": false,
+    "added_by": "8284807058"
   }
 ]

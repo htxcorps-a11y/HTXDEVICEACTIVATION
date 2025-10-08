@@ -148,5 +148,13 @@
     "Allowoffline": false,
     "added_by": "8284807058",
     "validity_days": 10
+  },
+  {
+    "device_id": "12345671212",
+    "key": "keynek",
+    "expirydate": "23-10-2025",
+    "Allowoffline": false,
+    "added_by": "8284807058",
+    "validity_days": 15
   }
 ]

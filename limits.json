@@ -4,7 +4,7 @@
       "max_keys": 9,
       "valid_days": 15,
       "start_date": "2025-10-08",
-      "period_days": 7
+      "period_days": 20
     },
     "8284807059": {
       "max_keys": 5,

@@ -4,23 +4,21 @@
       {
         "max_keys": 5,
         "valid_days": 10,
-        "start_date": "2025-10-01",
-        "period_days": 15
-      },
-      {
-        "max_keys": 7,
-        "valid_days": 15,
         "start_date": "2025-10-08",
-        "period_days": 20
-      }
-    ],
-    "8284807059": [
+        "period_days": 25
+      },
       {
         "max_keys": 5,
         "valid_days": 15,
-        "start_date": "2025-10-07",
-        "period_days": 9
+        "start_date": "2025-10-08",
+        "period_days": 25
       }
-    ]
+    ],
+    "8284807059": {
+      "max_keys": 5,
+      "valid_days": 15,
+      "start_date": "2025-10-07",
+      "period_days": 9
+    }
   }
 }

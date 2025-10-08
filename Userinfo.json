@@ -109,5 +109,12 @@
     "expirydate": "22-10-2025",
     "Allowoffline": false,
     "added_by": "8284807058"
+  },
+  {
+    "device_id": "123467999999",
+    "key": "keyjaga",
+    "expirydate": "23-10-2025",
+    "Allowoffline": false,
+    "added_by": "7653387182"
   }
 ]

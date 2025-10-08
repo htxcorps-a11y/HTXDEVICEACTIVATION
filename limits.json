@@ -1,20 +1,16 @@
 {
   "users": {
-    "USER_ID_HERE": {
-      "plans": [
-        {
-          "valid_days": 7,
-          "max_keys": 5,
-          "used": 0,
-          "period_end": "2025-10-30"
-        },
-        {
-          "valid_days": 15,
-          "max_keys": 3,
-          "used": 0,
-          "period_end": "2025-11-15"
-        }
-      ]
+    "8284807058": {
+      "max_keys": 5,
+      "valid_days": 15,
+      "start_date": "2025-10-08",
+      "period_days": 7
+    },
+    "8284807059": {
+      "max_keys": 5,
+      "valid_days": 15,
+      "start_date": "2025-10-07",
+      "period_days": 9
     }
   }
 }

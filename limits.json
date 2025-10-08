@@ -2,10 +2,10 @@
   "users": {
     "8284807058": [
       {
-        "max_keys": 5,
+        "max_keys": 6,
         "valid_days": 10,
         "start_date": "2025-10-08",
-        "period_days": 25
+        "period_days": 30
       },
       {
         "max_keys": 6,

@@ -163,5 +163,13 @@
     "expirydate": "19-10-2025",
     "Allowoffline": false,
     "added_by": "7653387182"
+  },
+  {
+    "device_id": "12345",
+    "key": "keynewkk",
+    "expirydate": "24-10-2025",
+    "Allowoffline": false,
+    "added_by": "8284807058",
+    "validity_days": 15
   }
 ]

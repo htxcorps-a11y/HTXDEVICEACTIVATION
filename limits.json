@@ -1,48 +1,35 @@
 {
   "users": {
-    "8284807058": [
-      {
-        "max_keys": 6,
-        "valid_days": 10,
-        "start_date": "2025-10-08",
-        "period_days": 30,
-        "keys_used": 3
-      },
-      {
-        "max_keys": 6,
-        "valid_days": 15,
-        "start_date": "2025-10-08",
-        "period_days": 30,
-        "keys_used": 2
-      }
-    ],
-    "8284807059": {
-      "max_keys": 5,
-      "valid_days": 15,
-      "start_date": "2025-10-07",
-      "period_days": 9
+    "8284807058": {
+      "banned": false,
+      "limits": [
+        {
+          "max_keys": 5,
+          "valid_days": 10,
+          "start_date": "2025-10-01",
+          "period_days": 15,
+          "key_used": 0
+        },
+        {
+          "max_keys": 7,
+          "valid_days": 15,
+          "start_date": "2025-10-08",
+          "period_days": 20,
+          "key_used": 0
+        }
+      ]
     },
-    "1234566": [
-      {
-        "max_keys": 10,
-        "valid_days": 10,
-        "start_date": "2025-10-09",
-        "period_days": 10
-      }
-    ],
-    "123456": [
-      {
-        "max_keys": 0,
-        "valid_days": 15,
-        "start_date": "2025-10-09",
-        "period_days": 0
-      },
-      {
-        "max_keys": 1,
-        "valid_days": 7,
-        "start_date": "2025-10-09",
-        "period_days": 0
-      }
-    ]
+    "8284807059": {
+      "banned": true,
+      "limits": [
+        {
+          "max_keys": 5,
+          "valid_days": 15,
+          "start_date": "2025-10-07",
+          "period_days": 9,
+          "key_used": 0
+        }
+      ]
+    }
   }
 }

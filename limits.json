@@ -8,7 +8,7 @@
           "valid_days": 10,
           "start_date": "2025-10-01",
           "period_days": 15,
-          "key_used": 1
+          "key_used": 2
         },
         {
           "max_keys": 7,

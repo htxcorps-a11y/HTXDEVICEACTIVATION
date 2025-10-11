@@ -30,6 +30,18 @@
           "key_used": 0
         }
       ]
+    },
+    "121": {
+      "banned": false,
+      "limits": [
+        {
+          "max_keys": 12,
+          "valid_days": 12,
+          "start_date": "2025-10-11",
+          "period_days": 12,
+          "key_used": 0
+        }
+      ]
     }
   }
 }

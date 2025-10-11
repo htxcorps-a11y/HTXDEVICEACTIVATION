@@ -24,7 +24,7 @@
       "limits": [
         {
           "max_keys": 15,
-          "valid_days": 15,
+          "valid_days": 10,
           "start_date": "2025-10-11",
           "period_days": 30,
           "key_used": 0

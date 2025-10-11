@@ -30,48 +30,6 @@
           "key_used": 0
         }
       ]
-    },
-    "121": [
-      {
-        "max_keys": 1,
-        "valid_days": 15,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      },
-      {
-        "max_keys": 1,
-        "valid_days": 11,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      }
-    ],
-    "1230": [
-      {
-        "max_keys": 5,
-        "valid_days": 7,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      },
-      {
-        "max_keys": 5,
-        "valid_days": 15,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      }
-    ],
-    "12300": [
-      {
-        "max_keys": 5,
-        "valid_days": 15,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      },
-      {
-        "max_keys": 5,
-        "valid_days": 30,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      }
-    ]
+    }
   }
 }

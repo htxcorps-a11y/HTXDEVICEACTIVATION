@@ -1,7 +1,7 @@
 {
   "users": {
     "8284807058": {
-      "banned": true,
+      "banned": false,
       "limits": [
         {
           "max_keys": 5,

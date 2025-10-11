@@ -19,14 +19,18 @@
         }
       ]
     },
-    "8284807058": [
-      {
-        "max_keys": 5,
-        "valid_days": 30,
-        "start_date": "2025-10-11",
-        "period_days": 30
-      }
-    ],
+    "8284807058": {
+      "banned": false,
+      "limits": [
+        {
+          "max_keys": 15,
+          "valid_days": 15,
+          "start_date": "2025-10-11",
+          "period_days": 30,
+          "key_used": 0
+        }
+      ]
+    },
     "001": {
       "banned": false,
       "limits": [

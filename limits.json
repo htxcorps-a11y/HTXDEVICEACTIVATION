@@ -49,6 +49,18 @@
           "key_used": 0
         }
       ]
+    },
+    "82848070": {
+      "banned": false,
+      "limits": [
+        {
+          "max_keys": 1,
+          "valid_days": 10,
+          "start_date": "2025-10-11",
+          "period_days": 30,
+          "key_used": 0
+        }
+      ]
     }
   }
 }

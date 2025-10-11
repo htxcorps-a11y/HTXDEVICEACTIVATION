@@ -58,6 +58,14 @@
         "start_date": "2025-10-11",
         "period_days": 30
       }
+    ],
+    "12300": [
+      {
+        "max_keys": 5,
+        "valid_days": 15,
+        "start_date": "2025-10-11",
+        "period_days": 30
+      }
     ]
   }
 }

@@ -31,17 +31,13 @@
         }
       ]
     },
-    "121": {
-      "banned": false,
-      "limits": [
-        {
-          "max_keys": 12,
-          "valid_days": 12,
-          "start_date": "2025-10-11",
-          "period_days": 12,
-          "key_used": 0
-        }
-      ]
-    }
+    "121": [
+      {
+        "max_keys": 1,
+        "valid_days": 15,
+        "start_date": "2025-10-11",
+        "period_days": 30
+      }
+    ]
   }
 }

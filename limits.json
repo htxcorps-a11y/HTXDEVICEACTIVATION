@@ -37,6 +37,12 @@
         "valid_days": 15,
         "start_date": "2025-10-11",
         "period_days": 30
+      },
+      {
+        "max_keys": 1,
+        "valid_days": 11,
+        "start_date": "2025-10-11",
+        "period_days": 30
       }
     ]
   }

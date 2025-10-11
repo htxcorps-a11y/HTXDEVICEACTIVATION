@@ -20,31 +20,31 @@
   {
     "device_id": "123457382862",
     "key": "htxkey1",
-    "expirydate": "2025-12-23",
+    "expirydate": "22-10_2025",
     "Allowoffline": true
   },
   {
     "device_id": "12345678",
     "key": "htxkey2",
-    "expirydate": "2025-12-06",
+    "expirydate": "22-10-2025",
     "Allowoffline": false
   },
   {
     "device_id": "12345678",
     "key": "htxkey2",
-    "expirydate": "2025-12-06",
+    "expirydate": "22-10-2025",
     "Allowoffline": false
   },
   {
     "device_id": "12345678",
     "key": "htxkey2",
-    "expirydate": "2025-12-06",
+    "expirydate": "22-10-2025",
     "Allowoffline": false
   },
   {
     "device_id": "123456788",
     "key": "htxkey2",
-    "expirydate": "2025-12-06",
+    "expirydate": "22-10-2025",
     "Allowoffline": false
   },
   {

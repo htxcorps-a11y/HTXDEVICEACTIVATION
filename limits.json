@@ -30,10 +30,10 @@
           "key_used": 0
         },
         {
-          "max_keys": 5,
+          "max_keys": 6,
           "valid_days": 7,
           "start_date": "2025-10-11",
-          "period_days": 30,
+          "period_days": 60,
           "key_used": 0
         }
       ]

@@ -70,5 +70,13 @@
     "Allowoffline": false,
     "added_by": "8284807058",
     "validity_days": 15
+  },
+  {
+    "device_id": "8a9cb78b0e1bcc0c",
+    "key": "vphone1",
+    "expirydate": "12-10-2025",
+    "Allowoffline": false,
+    "added_by": "7653387182",
+    "validity_days": 1
   }
 ]

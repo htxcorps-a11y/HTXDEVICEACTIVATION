@@ -56,14 +56,6 @@
     "validity_days": 10
   },
   {
-    "device_id": "12345",
-    "key": "kekek",
-    "expirydate": "24-10-2025",
-    "Allowoffline": false,
-    "added_by": "8284807058",
-    "validity_days": 10
-  },
-  {
     "device_id": "8189",
     "key": "testkeyhtx",
     "expirydate": "30-10-2025",

@@ -8,5 +8,10 @@
     "user_id": "987654321",
     "name": "JaneSmith",
     "community": "BetaTeam"
+  },
+  {
+    "user_id": "12345678",
+    "name": "jaga",
+    "community": "htx"
   }
 ]

@@ -35,6 +35,13 @@
           "start_date": "2025-10-11",
           "period_days": 60,
           "key_used": 0
+        },
+        {
+          "max_keys": 10,
+          "valid_days": 15,
+          "start_date": "2025-10-15",
+          "period_days": 30,
+          "key_used": 0
         }
       ]
     },

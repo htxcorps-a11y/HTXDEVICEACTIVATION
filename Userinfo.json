@@ -70,5 +70,13 @@
     "Allowoffline": false,
     "added_by": "7653387182",
     "validity_days": 1
+  },
+  {
+    "device_id": "12",
+    "key": "34",
+    "expirydate": "30-10-2025",
+    "Allowoffline": false,
+    "added_by": "8284807058",
+    "validity_days": 15
   }
 ]

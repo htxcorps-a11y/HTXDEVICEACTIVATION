@@ -41,7 +41,7 @@
           "valid_days": 15,
           "start_date": "2025-10-15",
           "period_days": 30,
-          "key_used": 0
+          "key_used": 1
         }
       ]
     },

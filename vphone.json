@@ -14,7 +14,7 @@
   {
     "name": "jaga",
     "device": "123",
-    "validity_days": 10,
+    "validity_days": 2,
     "expiry": "31-10-2025"
   }
 ]

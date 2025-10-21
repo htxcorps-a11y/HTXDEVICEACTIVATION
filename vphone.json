@@ -2,19 +2,19 @@
   {
     "name": "John",
     "device": "ABC123XYZ",
-    "validity_days": 30,
-    "expiry": "20-11-2025"
+    "validity_days": 31,
+    "expiry": "21-11-2025"
   },
   {
     "name": "Alice",
     "device": "DEF456LMN",
-    "validity_days": 15,
-    "expiry": "05-11-2025"
+    "validity_days": 16,
+    "expiry": "06-11-2025"
   },
   {
     "name": "jaga",
     "device": "1234",
-    "validity_days": 11,
-    "expiry": "01-11-2025"
+    "validity_days": 12,
+    "expiry": "02-11-2025"
   }
 ]

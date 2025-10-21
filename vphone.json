@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John",
+    "device": "ABC123XYZ",
+    "validity_days": 30,
+    "expiry": "20-11-2025"
+  },
+  {
+    "name": "Alice",
+    "device": "DEF456LMN",
+    "validity_days": 15,
+    "expiry": "05-11-2025"
+  }
+]

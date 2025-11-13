@@ -72,9 +72,9 @@
     "validity_days": 1
   },
   {
-    "device_id": "12",
+    "device_id": "8a9cb78b0e1bcc0c",
     "key": "34",
-    "expirydate": "30-10-2025",
+    "expirydate": "30-12-2025",
     "Allowoffline": false,
     "added_by": "8284807058",
     "validity_days": 15
